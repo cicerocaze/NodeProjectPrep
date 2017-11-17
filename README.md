@@ -8,5 +8,5 @@
 6. In the project folder, install mocha module with the command "npm install mocha --save".
 7. Install grunt using command "sudo npm install -g grunt-cli".
 8. Install nodemon tool, with the command "npm install nodemon --save".
-9. Install consign
-10. Install ejs
+9. Install consign module with the command "npm install consign --save".
+10. Install ejs module with the command "npm install ejs --save".
